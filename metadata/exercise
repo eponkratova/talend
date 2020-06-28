@@ -1,0 +1,5 @@
+Metadata.
+Create built in Schema for the file exercises/Input/ex_001.csv and write the results to your choice of target.
+Create Generic Schema using job_sec03_003_tFileInputDelimited Jobs tFileInputDelimited_1 Component metadata.
+Create Metadata for exercises/Input/ex_001.csv file in repository, then create a job that uses this schema and write it to your choice of target and run it. Then modify your schema so that you will have an extra column called ZipCode and then propagate these changes to all the jobs that uses this schema.
+Create DB Connection to world database and Retrieve schemas.
